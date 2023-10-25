@@ -46,5 +46,6 @@ background-clip: text;
 text-transform: uppercase;
 }
 
-.conteiner__botao {display: none;}
+.conteiner__botao {
+    display: none;}
 
